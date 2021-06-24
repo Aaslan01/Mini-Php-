@@ -1,0 +1,17 @@
+<?php
+
+echo $num1 . "ALI";
+FUNCTION add()
+{
+$name = "Ali";
+wHIle($num<5)
+{if($v<3)
+{
+$no = 12.4;
+}
+$no = 12.4;
+}
+}
+return add();
+
+?>

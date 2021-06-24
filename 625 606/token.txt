@@ -1,0 +1,71 @@
+ Start of block 
+ delimeter
+ECHO
+ delimeter
+ID
+ delimeter
+Concatinate 
+ delimeter
+string
+Pun 
+ delimeter
+Function
+ delimeter
+Function Name
+Pun 
+Pun 
+ delimeter
+Pun 
+ delimeter
+ID
+ delimeter
+Assinment OP: 
+ delimeter
+string
+Pun 
+ delimeter
+while
+Pun 
+ID
+cLess
+Num
+Pun 
+ delimeter
+Pun 
+IF 
+Pun 
+ID
+cLess
+Num
+Pun 
+ delimeter
+Pun 
+ delimeter
+ID
+ delimeter
+Assinment OP: 
+ delimeter
+FloatLit
+Pun 
+ delimeter
+Pun 
+ delimeter
+ID
+ delimeter
+Assinment OP: 
+ delimeter
+FloatLit
+Pun 
+ delimeter
+Pun 
+ delimeter
+Pun 
+ delimeter
+return
+ delimeter
+Function Name
+Pun 
+Pun 
+Pun 
+ delimeter
+ End of block 
