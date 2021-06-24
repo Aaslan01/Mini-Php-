@@ -1,0 +1,23 @@
+<?php
+
+echo $num1 "ALI";
+FUNCTION add()
+{
+$name = "Ali";
+$no = 12;
+}
+if ($num == $num2)
+{
+$num1=$num+1;
+}
+elseif ($num1==$num2)
+{
+$num1=$num1+1;
+}
+else
+{
+$num1=$num1+1;
+}
+return add();
+
+?>
